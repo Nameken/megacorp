@@ -1,3 +1,3 @@
-# megacorp | good marketing example
+# megacorp
 
-MegaCorp™ is *the* enterprise Customer Relationship Management (CRM) software. Not only is it an incredible MegaCorp™ ecosystem. That language is called "Apux".
+The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
